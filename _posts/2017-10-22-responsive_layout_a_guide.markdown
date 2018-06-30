@@ -1,12 +1,12 @@
----
+<!-- **---
 layout: post
 title:      "Responsive Layout: A Guide "
 date:       2017-10-22 21:48:58 +0000
 permalink:  responsive_layout_a_guide
----
+---**  !--> 
 
 
-Building Responsive Sites is practically a necessity now, given that people browse the internet on all sizes of devices: desktops, laptops, tablets, and smart phones. Websites need to be able to react to different screen sizes, and display a website format specially for that screen size, in order to present clear, un-jumbled, and easy-to-navigate sites. 
+<!--** Building Responsive Sites is practically a necessity now, given that people browse the internet on all sizes of devices: desktops, laptops, tablets, and smart phones. Websites need to be able to react to different screen sizes, and display a website format specially for that screen size, in order to present clear, un-jumbled, and easy-to-navigate sites. 
 
 A **Responsive Site** is a single site that is viewable on different devices. 
 
@@ -30,5 +30,4 @@ The deciding factor in whether or not to design a desktop down or mobile up site
 
 For example, if you are a new and upcoming fashion company advertising on Instagram with sponsored ads or posts directing users to click on a link in your profil bio, you could use the *Mobile Up* design method, as the majority of visitors will come from those adds or social media links, and will most likely be on their smartphone or tablet. 
 
-Howver if you are a large retail store, most of your site traffic will come from google shopping, google searches, or visitors going directly to your site. In this case, it would be better to build a *Desktop Down* site, since most visitors will be using their home computer or laptop. 
-
+Howver if you are a large retail store, most of your site traffic will come from google shopping, google searches, or visitors going directly to your site. In this case, it would be better to build a *Desktop Down* site, since most visitors will be using their home computer or laptop. --!>

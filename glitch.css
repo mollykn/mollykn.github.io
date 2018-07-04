@@ -1,23 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #eac1f4;
+
+}
+
 .glitch{
 	position: relative;
 	top: 40%;
 	margin: 0 auto;
 	color: #fff;
 	font-size: 80px;
-	font-family: "Helvetica";
+	font-family: Helvetica;
 	font-weight: 600;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 .glitch:before, .glitch:after{
-	content: 'molly nelson';
-	font-size: 65px;
-	text-align: center;
+	content: 'HELLO';
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
-  	letter-spacing: -5px;
 	overflow: hidden;
 	background-color: #eac1f4;
 	color: #fff;
@@ -97,3 +102,19 @@
 	100% {
 		clip:rect(79px, 9999px, 70px, 0);
 	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
